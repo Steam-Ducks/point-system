@@ -8,7 +8,7 @@
 <br />
 
 <div align="center">
-<img src="" alt="capa-readme" width="100%" />
+<img src="assets/header.png" alt="capa-readme" width="100%" />
 </div>
   
 <p>Nós da equipe <b>STEAM DUCKS</b> estudantes do 3º semestre do curso de Banco de Dados na FATEC SJC, estamos comprometidos com o desenvolvimento do projeto "Sistema de Ponto" neste repositório. O objetivo do projeto é criar uma aplicação web que permita o monitoramento de funcionários de empresas terceiras em uma determinada área de manutenção. O projeto inclui a modelagem de um banco de dados relacional e desenvolvimento de API. Por meio deste projeto, buscamos solidificar nossos conhecimentos em modelagem de dados e desenvolvimento de software.</p>
@@ -120,7 +120,7 @@ Garantir a continuidade e o comprometimento dos membros da equipe no projeto ess
 O projeto é uma parte fundamental para a conclusão do semestre, e o comprometimento de cada membro é essencial para o sucesso coletivo. Contamos com a sua colaboração e dedicação!
 
 <div align="center">
-    <img src="" alt="footer" width="100%" />
+    <img src="assets/footer.png" alt="footer" width="100%" />
 </div>
 
 </body>
