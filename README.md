@@ -11,7 +11,7 @@
 <img src="" alt="capa-readme" width="100%" />
 </div>
   
-<p>Nós da equipe <b>STEAM DUCKS</b> estudantes do 3º semestre do curso de Banco de Dados na FATEC SJC, estamos comprometidos com o desenvolvimento do projeto "Sistema de Ponto" neste repositório. O objetivo do projeto é criar uma aplicação web que permita o monitoramento de funcionários de empresas terceirasem uma determinada área de manutenção. O projeto inclui a modelagem de um banco de dados relacional. Por meio deste projeto, buscamos solidificar nossos conhecimentos em modelagem de dados e desenvolvimento de software.</p>
+<p>Nós da equipe <b>STEAM DUCKS</b> estudantes do 3º semestre do curso de Banco de Dados na FATEC SJC, estamos comprometidos com o desenvolvimento do projeto "Sistema de Ponto" neste repositório. O objetivo do projeto é criar uma aplicação web que permita o monitoramento de funcionários de empresas terceiras em uma determinada área de manutenção. O projeto inclui a modelagem de um banco de dados relacional e desenvolvimento de API. Por meio deste projeto, buscamos solidificar nossos conhecimentos em modelagem de dados e desenvolvimento de software.</p>
 
 ## Índice
 ♦ [Requisitos](#requisitos) <br />
