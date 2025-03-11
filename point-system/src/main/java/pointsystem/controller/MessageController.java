@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class MessageController {
 
     @GetMapping("/hello")
-    public String hello(){
-        return "Projeto de API point system";
+    public String hello() {
+        return "API Point System!!";
     }
 }
