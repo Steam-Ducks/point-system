@@ -2,15 +2,14 @@ package pointsystem.entity;
 
 import jakarta.persistence.*;
 
-import java.util.UUID;
 
 @Entity
-@Table(name = "usuarios", uniqueConstraints = @UniqueConstraint(columnNames = "usuario_email"))
+@Table(name = "usuario", uniqueConstraints = @UniqueConstraint(columnNames = "usuario_email"))
 public class User {
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "usuario_id")
-    private UUID userId;
+    private int userId;
 
     @Column(name = "usuario_nome")
     private String username;
@@ -25,18 +24,18 @@ public class User {
 
     public User() {}
 
-    public User(UUID userId, String username, String password, String email) {
+    public User(int userId, String username, String password, String email) {
         this.userId = userId;
         this.username = username;
         this.password = password;
         this.email = email;
     }
 
-    public UUID getUserId() {
+    public int getUserId() {
         return userId;
     }
 
-    public void setUserId(UUID userId) {
+    public void setUserId(int userId) {
         this.userId = userId;
     }
 
