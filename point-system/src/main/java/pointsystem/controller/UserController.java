@@ -1,11 +1,12 @@
 package pointsystem.controller;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
-import pointsystem.dto.CreateUserDto;
-import pointsystem.dto.UpdateUserDto;
+import pointsystem.dto.user.CreateUserDto;
+import pointsystem.dto.user.UpdateUserDto;
 import pointsystem.entity.User;
 import pointsystem.service.UserService;
 
@@ -15,9 +16,10 @@ import java.util.Optional;
 
 @RestController
 @CrossOrigin(origins = "*")
-@RequestMapping("/users")
+@RequestMapping("/api/users")
 public class UserController {
 
+    @Autowired
     private final UserService userService;
 
     public UserController(UserService userService) {
@@ -27,7 +29,7 @@ public class UserController {
     @PostMapping
     public ResponseEntity<User> createUser(@RequestBody CreateUserDto user) {
         int newUserId = userService.createUser(user);
-        return ResponseEntity.created(URI.create("/users/" + newUserId)).build();
+        return ResponseEntity.created(URI.create("/api/users/" + newUserId)).build();
     }
 
     @GetMapping("/{userId}")

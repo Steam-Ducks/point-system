@@ -1,9 +1,10 @@
 package pointsystem.service;
 
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import pointsystem.dto.CreateUserDto;
-import pointsystem.dto.UpdateUserDto;
+import pointsystem.dto.user.CreateUserDto;
+import pointsystem.dto.user.UpdateUserDto;
 import pointsystem.entity.User;
 import pointsystem.repository.UserRepository;
 
@@ -13,6 +14,7 @@ import java.util.Optional;
 @Service
 public class UserService {
 
+    @Autowired
     private final UserRepository userRepository;
 
     public UserService(UserRepository userRepository) {
