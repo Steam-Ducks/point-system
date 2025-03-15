@@ -72,6 +72,7 @@
 | 9 | MÉDIA | PS-9 | como gestor de contratos quero criar cargos de funcionarios no sistema para definir o pagamento por hora dos colaboradores. | 3 |
 | 10 | BAIXA | PS-10 | Como gestor de contratos quero calcular quanto um funcionário receberá com base nas horas trabalhadas e cargo para garantir que as horas trabalhadas sejam devidamente pagas. | 5 |
 | 11 | MÉDIA | PS-11 | Como gestor de contratos quero que seja exibido um alerta caso haja algum registro incorreto para garantir que todos os registros estejam coerentes. | 8 |
+| 12 | ALTA | PS-22 | Como gestor de contratos quero realizar o acesso no sistema através de email e senha para garantir a segurança dos dados gerenciados. | 5 |
 
 ## Cronograma do Projeto
 
