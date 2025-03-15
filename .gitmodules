@@ -1,0 +1,6 @@
+[submodule "ps-server"]
+	path = ps-server
+	url = https://github.com/Steam-Ducks/ps-server.git
+[submodule "ps-client"]
+	path = ps-client
+	url = https://github.com/Steam-Ducks/ps-client.git
