@@ -39,10 +39,10 @@
 
 | Número do Requisito | Requisito do Parceiro |
 |---------------------|-----------------------|
-| RNF1 | Desenvolver uma interface de Cadastro de empresas e profissionais, incluindo foto |
-| RNF2 | Desenvolver filtragem por data, empresa e profissional |
-| RNF3 | Permitir a extração de relatórios |
-| RNF4 | Dashboard com gráficos e possibilidade de filtragem |
+| RNF1 | Front Minimalista |
+| RNF2 | Guia de Instalação |
+| RNF3 | Documentação API |
+| RNF4 | Modelagem de Banco de Dados |
 
 ## Integrantes do projeto
 
