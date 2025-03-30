@@ -20,7 +20,7 @@
 ♦ [Cronograma do Projeto](#cronograma-do-projeto) <br />
 ♦ [Tecnologias Utilizadas](#tecnologias-utilizadas) <br />
 ♦ [Termo de Requisitos de Permanência](#termo-de-requisitos-de-permanência) <br />
-♦ [Documentação]() <br />
+♦ [Documentação](/documentation)  <br />
 ♦ [Manual de Instalação]()<br >
 
 ## Requisitos
@@ -39,10 +39,10 @@
 
 | Número do Requisito | Requisito do Parceiro |
 |---------------------|-----------------------|
-| RNF1 | Desenvolver uma interface de Cadastro de empresas e profissionais, incluindo foto |
-| RNF2 | Desenvolver filtragem por data, empresa e profissional |
-| RNF3 | Permitir a extração de relatórios |
-| RNF4 | Dashboard com gráficos e possibilidade de filtragem |
+| RNF1 | Front Minimalista |
+| RNF2 | Guia de Instalação |
+| RNF3 | Documentação API |
+| RNF4 | Modelagem de Banco de Dados |
 
 ## Integrantes do projeto
 
@@ -70,8 +70,13 @@
 | 7 | ALTA | PS-7 | Como gestor de contratos quero extrair relatórios das informações do sistema para realizar uma análise detalhada de uma manutenção. | 5 |
 | 8 | MÉDIA | PS-8 | Como gestor de contratos quero filtrar tanto a consulta de informações como os relatórios por empresa, funcionário e período para obter informações mais específicas. | 13 | 
 | 9 | MÉDIA | PS-9 | como gestor de contratos quero criar cargos de funcionarios no sistema para definir o pagamento por hora dos colaboradores. | 3 |
+<<<<<<< HEAD
 | 10 | BAIXA | PS-10 | Como gestor de contratos quero calcular quanto um funcionário receberá com base nas horas trabalhadas e cargo para garantir que as horas trabalhadas sejam devidamente pagas. | 13 |
 | 11 | MÉDIA | PS-11 | Como gestor de contratos quero que seja exibido um alerta caso haja algum registro incorreto para garantir que todos os registros estejam coerentes. | 8 |
+=======
+| 10 | BAIXA | PS-10 | Como gestor de contratos quero calcular quanto um funcionário receberá com base nas horas trabalhadas e cargo para garantir que as horas trabalhadas sejam devidamente pagas. | 5 |
+| 11 | ALTA | PS-22 | Como gestor de contratos quero realizar o acesso no sistema através de email e senha para garantir a segurança dos dados gerenciados. | 5 |
+>>>>>>> 70c64e4c3e297d17679b0f5311614b8053a7154a
 
 ## Cronograma do Projeto
 
