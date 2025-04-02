@@ -76,6 +76,11 @@
 | Os funcionários terão acesso a esse sistema para poderem consultar o número de horas trabalhadas? | Não. O acesso é único e exclusivo do administrativo da contratante. |
 | Gostaria que fosse possível inserir informações no sistema através de um arquivo CSV? | Não é requisito e não acho necessário. |
 
+---
+
+### Burndown
+<img src="assets/burndown/burndown_sprint1.png" alt="BurnDown_Sprint1" width="100%" />
+
 </details>
 
 <details>
