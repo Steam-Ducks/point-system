@@ -79,11 +79,11 @@
 | Fase                   | Início         | Entrega        | Status  |
 |-----------------------|----------------|-----------------|---------|
 | Kick off do projeto   | 24/02/2025     | 09/03/2025      |   ✅   | 
-| Sprint 1              | 10/03/2025     | 30/03/2025      |    ✅  | 
+| [Sprint 1](/documentation/README.md)| 10/03/2025     | 30/03/2025      |    ✅  | 
 | Sprint Review/Planning | 31/03/2025     | 04/04/2025      |   ✅   | 
-| Sprint 2              | 07/04/2025     | 27/04/2025      |   🔄   | 
+| [Sprint 2](/documentation/README.md)| 07/04/2025     | 27/04/2025      |   🔄   | 
 | Sprint Review/Planning | 28/04/2025     | 02/05/2025      |   ❌   | 
-| Sprint 3              | 05/05/2025     | 25/05/2025       |   ❌   | 
+| [Sprint 3](/documentation/README.md)| 05/05/2025     | 25/05/2025       |   ❌   | 
 | Sprint review         | 26/05/2025     | 28/05/2025      |   ❌   | 
 | Feira de Soluções     | 29/09/2025     | 29/09/2025      |   ❌   | 
 
