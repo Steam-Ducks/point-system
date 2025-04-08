@@ -14,6 +14,8 @@
 <details>
 <summary>Sprint 1</summary>
 
+
+
 ## User Stories da Sprint
 
 | Rank | Prioridade | ID | User Story | Estimativa | Sprint | Requisito do parceiro |
@@ -80,6 +82,11 @@
 
 ### Burndown
 <img src="assets/burndown/burndown_sprint1.png" alt="BurnDown_Sprint1" width="100%" />
+
+### Video de demonstração Sprint 1
+[🎥 Veja o vídeo de demonstração](https://youtu.be/PgfL2fV6vqs)
+
+---
 
 </details>
 
