@@ -89,7 +89,7 @@
 
 ## Tecnologias Utilizadas
 
-[![My Skills](https://skillicons.dev/icons?i=java,figma,git,github,idea,postgres,spring,vue&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,figma,git,github,idea,postgres,spring,vue,supabase,vscode&theme=light)](https://skillicons.dev)
 
 ## Termo de Requisitos de Permanência
 
