@@ -59,29 +59,29 @@
 
 ## Backlog do Produto
 
-| Rank | Prioridade | ID | User Story | Estimativa |
-|------|------------|----|------------|------------|
-| 1 | ALTA | PS-1 | Como gestor de contratos quero visualizar as marcações que o colaborador fez para saber o total de horas trabalhadas | 8 |
-| 2 | ALTA | PS-2 | Como gestor de contratos quero visualizar quantos funcionários trabalham em determinado pedíodo para ter controle do número de profissionais no local de trabalho. | 8 |
-| 3 | ALTA | PS-3 | Como gestor de contratos quero alterar um registro de ponto incorreto para manter a integridade das informações no sistema. | 5 |
-| 4 | ALTA | PS-4 | Como gestor de contratos quero adicionar empresas no sistema para vincular um funcionário. | 5 |
-| 5 | ALTA | PS-5 | Como gestor de contratos quero adicionar funcionários no sistema para ter controle dos seus horários de trabalho. | 5 |
-| 6 | ALTA | PS-6 | Como gestor de contratos quero visualizar as informações de empresas e funcionários através de um dashboard para consultar as informações de forma gráfica. | 8 |
-| 7 | ALTA | PS-7 | Como gestor de contratos quero extrair relatórios das informações do sistema para realizar uma análise detalhada de uma manutenção. | 5 |
-| 8 | MÉDIA | PS-8 | Como gestor de contratos quero filtrar tanto a consulta de informações como os relatórios por empresa, funcionário e período para obter informações mais específicas. | 13 | 
-| 9 | MÉDIA | PS-9 | como gestor de contratos quero criar cargos de funcionarios no sistema para definir o pagamento por hora dos colaboradores. | 3 |
-| 10 | BAIXA | PS-10 | Como gestor de contratos quero calcular quanto um funcionário receberá com base nas horas trabalhadas e cargo para garantir que as horas trabalhadas sejam devidamente pagas. | 5 |
-| 11 | ALTA | PS-22 | Como gestor de contratos quero realizar o acesso no sistema através de email e senha para garantir a segurança dos dados gerenciados. | 5 |
-| 12 | MÉDIA | PS-30 | Como Administrador do Sistema quero poder cadastrar usuarios no sistema para ter controle do acesso dos funcionários gestores de contrato | 8 |
+| Rank | Prioridade | ID | User Story | Estimativa | Requisitos do Parceiro |
+|------|------------|----|------------|------------| -----------------------|
+| 1 | ALTA | PS-1 | Como gestor de contratos quero visualizar as marcações que o colaborador fez para saber o total de horas trabalhadas | 8 | RF2, RNF1 |
+| 2 | ALTA | PS-2 | Como gestor de contratos quero visualizar quantos funcionários trabalham em determinado pedíodo para ter controle do número de profissionais no local de trabalho. | 8 | RF2, RNF1 |
+| 3 | ALTA | PS-3 | Como gestor de contratos quero alterar um registro de ponto incorreto para manter a integridade das informações no sistema. | 5 | RF2, RNF1, RF4 |
+| 4 | ALTA | PS-4 | Como gestor de contratos quero adicionar empresas no sistema para vincular um funcionário. | 5 | RF1, RNF1, RNF4 |
+| 5 | ALTA | PS-5 | Como gestor de contratos quero adicionar funcionários no sistema para ter controle dos seus horários de trabalho. | 5 | RF1, RNF1, RNF4 |
+| 6 | ALTA | PS-6 | Como gestor de contratos quero visualizar as informações de empresas e funcionários através de um dashboard para consultar as informações de forma gráfica. | 8 | RF2, RF4, RNF1 |
+| 7 | ALTA | PS-7 | Como gestor de contratos quero extrair relatórios das informações do sistema para realizar uma análise detalhada de uma manutenção. | 5 | RF2, RF3, RNF1 |
+| 8 | MÉDIA | PS-8 | Como gestor de contratos quero filtrar tanto a consulta de informações como os relatórios por empresa, funcionário e período para obter informações mais específicas. | 13 | RF2, RF3, RF4, RNF1 |
+| 9 | MÉDIA | PS-9 | como gestor de contratos quero criar cargos de funcionarios no sistema para definir o pagamento por hora dos colaboradores. | 3 | RF1, RNF1, RNF4 |
+| 10 | BAIXA | PS-10 | Como gestor de contratos quero calcular quanto um funcionário receberá com base nas horas trabalhadas e cargo para garantir que as horas trabalhadas sejam devidamente pagas. | 5 | RF3, RF4, RNF1 |
+| 11 | ALTA | PS-22 | Como gestor de contratos quero realizar o acesso no sistema através de email e senha para garantir a segurança dos dados gerenciados. | 5 | RF1, RNF1 |
+| 12 | MÉDIA | PS-30 | Como Administrador do Sistema quero poder cadastrar usuarios no sistema para ter controle do acesso dos funcionários gestores de contrato | 8 | RF1, RNF1 |
 
 ## Cronograma do Projeto
 
 | Fase                   | Início         | Entrega        | Status  |
 |-----------------------|----------------|-----------------|---------|
 | Kick off do projeto   | 24/02/2025     | 09/03/2025      |   ✅   | 
-| Sprint 1              | 10/03/2025     | 30/03/2025      |   🔄   | 
-| Sprint Review/Planning | 31/03/2025     | 04/04/2025      |   ❌   | 
-| Sprint 2              | 07/04/2025     | 27/04/2025      |   ❌   | 
+| Sprint 1              | 10/03/2025     | 30/03/2025      |    ✅  | 
+| Sprint Review/Planning | 31/03/2025     | 04/04/2025      |   ✅   | 
+| Sprint 2              | 07/04/2025     | 27/04/2025      |   🔄   | 
 | Sprint Review/Planning | 28/04/2025     | 02/05/2025      |   ❌   | 
 | Sprint 3              | 05/05/2025     | 25/05/2025       |   ❌   | 
 | Sprint review         | 26/05/2025     | 28/05/2025      |   ❌   | 
