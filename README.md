@@ -20,7 +20,7 @@
 ♦ [Cronograma do Projeto](#cronograma-do-projeto) <br />
 ♦ [Tecnologias Utilizadas](#tecnologias-utilizadas) <br />
 ♦ [Termo de Requisitos de Permanência](#termo-de-requisitos-de-permanência) <br />
-♦ [Documentação](/documentation)  <br />
+♦ [Documentação das Sprints](/documentation)  <br />
 ♦ [Manual de Instalação]()<br >
 
 ## Requisitos
