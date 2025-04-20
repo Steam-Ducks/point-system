@@ -270,6 +270,107 @@
 
 <details>
     <summary>Sprint 3</summary>
+
+## User Stories da Sprint
+
+| Rank | Prioridade | ID | User Story | Estimativa | Sprint | Requisito do parceiro |
+|------|------------|----|------------|------------|--------|-----------------------|
+| 2 | ALTA | PS-2 | Como gestor de contratos quero visualizar quantos funcionários trabalharam em determinado pedíodo para ter controle do número de profissionais no local de trabalho.| A definir | 3 | RF2, RFN1 |
+
+### Requisitos
+- O sistema exibe o número total de funcionários em determinado periodo.
+- Permite filtrar os funcionários por data, empresa e período.
+- A contagem de funcionários reflete os dados.
+
+### Definition of ready: 
+- User story claramente definido, incluindo critérios de aceitação.
+- Tarefas definidas, atribuidas e relacionadas às User Stories
+- A user story foi estimada e priorizada corretamente na sprint.
+
+### Definition of done: 
+- Código funcional e organizado, disponibilizado no GitHub.
+- A funcionalidade foi revisada por pelo menos um membro da equipe (code review).
+- Código aprovado após passar por todas as etapas de testes descritos na Documentação de Testes.
+- A documentação do projeto foi atualizada.
+- Nenhum bug crítico foi identificado nos testes.
+
+
+---
+
+| Rank | Prioridade | ID | User Story | Estimativa | Sprint | Requisito do parceiro |
+|------|------------|----|------------|------------|--------|-----------------------|
+| 6 | ALTA | PS-6 | Como gestor de contratos quero visualizar as informações de empresas e funcionários através de um dashboard para consultar as informações de forma gráfica. | A definir | 3 | RF2, RF4, RNF1  |
+
+### Requisitos
+- O dashboard exibe gráficos interativos sobre empresas, funcionários e marcações de ponto.
+- Permite filtragem por empresa, funcionário e período.
+- Os dados são atualizados em tempo real conforme novas entradas são registradas.
+
+### Definition of ready: 
+- User story claramente definido, incluindo critérios de aceitação.
+- Tarefas definidas, atribuidas e relacionadas às User Stories
+- A user story foi estimada e priorizada corretamente na sprint.
+
+### Definition of done: 
+- Código funcional e organizado, disponibilizado no GitHub.
+- A funcionalidade foi revisada por pelo menos um membro da equipe (code review).
+- Código aprovado após passar por todas as etapas de testes descritos na Documentação de Testes.
+- A documentação do projeto foi atualizada.
+- Nenhum bug crítico foi identificado nos testes.
+
+## Regras de Negócio
+
+| Definições do Cliente                                                                                              |
+|--------------------------------------------------------------------------------------------------------------------|
+| É importante que seja exibido no dashboard quantas horas cada empresa gastou em determinado período |
+
+---
+
+| Rank | Prioridade | ID | User Story | Estimativa | Sprint | Requisito do parceiro |
+|------|------------|----|------------|------------|--------|-----------------------|
+| 7 | ALTA | PS-7 | Como gestor de contratos quero extrair relatórios das informações do sistema para realizar uma análise detalhada de uma manutenção. | A definir | 3 | RF2, RF3, RNF1 |
+
+### Requisitos
+- O sistema gera relatórios detalhados com base nos filtros aplicados.
+- Os relatórios podem ser exportados em formatos comuns (Excel).
+- Os relatórios incluem todas as informações necessárias para análise.
+
+### Definition of ready: 
+- User story claramente definido, incluindo critérios de aceitação.
+- Tarefas definidas, atribuidas e relacionadas às User Stories
+- A user story foi estimada e priorizada corretamente na sprint.
+
+### Definition of done: 
+- Código funcional e organizado, disponibilizado no GitHub.
+- A funcionalidade foi revisada por pelo menos um membro da equipe (code review).
+- Código aprovado após passar por todas as etapas de testes descritos na Documentação de Testes.
+- A documentação do projeto foi atualizada.
+- Nenhum bug crítico foi identificado nos testes.
+
+---
+
+| Rank | Prioridade | ID | User Story | Estimativa | Sprint | Requisito do parceiro |
+|------|------------|----|------------|------------|--------|-----------------------|
+| 8 | MÉDIA | PS-8 | Como gestor de contratos quero filtrar tanto a consulta de informações como os relatórios por empresa, funcionário e período para obter informações mais específicas. | A definir | 3 | RF2, RF3, RF4, RNF1  |
+
+### Requisitos
+- Permite aplicar filtros por empresa, funcionário e período.
+- Os filtros são aplicados instantaneamente, refletindo nos dados exibidos.
+- As exportações respeitam os filtros aplicados.
+
+### Definition of ready: 
+- User story claramente definido, incluindo critérios de aceitação.
+- Tarefas definidas, atribuidas e relacionadas às User Stories
+- A user story foi estimada e priorizada corretamente na sprint.
+
+### Definition of done: 
+- Código funcional e organizado, disponibilizado no GitHub.
+- A funcionalidade foi revisada por pelo menos um membro da equipe (code review).
+- Código aprovado após passar por todas as etapas de testes descritos na Documentação de Testes.
+- A documentação do projeto foi atualizada.
+- Nenhum bug crítico foi identificado nos testes.
+
+
 </details>
 
 ---
