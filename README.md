@@ -21,7 +21,7 @@
 ♦ [Tecnologias Utilizadas](#tecnologias-utilizadas) <br />
 ♦ [Termo de Requisitos de Permanência](#termo-de-requisitos-de-permanência) <br />
 ♦ [Documentação das Sprints](/documentation)  <br />
-♦ [Documentação da API (Spring Docs)](/documentation/spring-docs/swagger-acess.md)  <br />
+♦ [Documentação da API (Swagger)](/documentation/spring-docs/swagger-acess.md)  <br />
 ♦ [Manual de Instalação]()<br >
 
 ## Requisitos
