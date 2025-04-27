@@ -151,7 +151,6 @@
 | Definições do Cliente                                                                                               |
 |---------------------------------------------------------------------------------------------------------------------|
 | É possível editar um registro de ponto no sistema, mas não é necessário um alerta de registro inconsistente.       |
-| É importante que o sistema possua um histórico de registros de pontos alterados no sistema. |
 
 ---
 
@@ -278,9 +277,9 @@
 | 2 | ALTA | PS-2 | Como gestor de contratos quero visualizar quantos funcionários trabalharam em determinado pedíodo para ter controle do número de profissionais no local de trabalho.| A definir | 3 | RF2, RFN1 |
 
 ### Requisitos
-- O sistema exibe o número total de funcionários em determinado periodo.
-- Permite filtrar os funcionários por data, empresa e período.
-- A contagem de funcionários reflete os dados.
+- O histórico deve ser acessível através de uma interface simples e clara. 
+- O histórico deve mostrar a lista de alterações feitas no ponto, com o nome do usuário que fez a alteração e a data e hora de cada alteração.
+- O sistema deve registrar cada alteração no ponto incluindo o ID do funcionário, a data e a hora da alteração.
 
 ### Definition of ready: 
 - User story claramente definido, incluindo critérios de aceitação.
@@ -370,6 +369,35 @@
 - A documentação do projeto foi atualizada.
 - Nenhum bug crítico foi identificado nos testes.
 
+---
+
+| Rank | Prioridade | ID | User Story | Estimativa | Sprint | Requisito do parceiro |
+|------|------------|----|------------|------------|--------|-----------------------|
+| 13 | ALTA | PS-63 | Como gestor de contrato quero visualizar um histórico de pontos alterados para saber quem alterou e quando o ponto foi alterado | A definir | 3 | RNF1 |
+
+### Requisitos
+- Permite aplicar filtros por empresa, funcionário e período.
+- Os filtros são aplicados instantaneamente, refletindo nos dados exibidos.
+- As exportações respeitam os filtros aplicados.
+
+### Definition of ready: 
+- User story claramente definido, incluindo critérios de aceitação.
+- Tarefas definidas, atribuidas e relacionadas às User Stories
+- A user story foi estimada e priorizada corretamente na sprint.
+
+### Definition of done: 
+- Código funcional e organizado, disponibilizado no GitHub.
+- A funcionalidade foi revisada por pelo menos um membro da equipe (code review).
+- Código aprovado após passar por todas as etapas de testes descritos na Documentação de Testes.
+- A documentação do projeto foi atualizada.
+- Nenhum bug crítico foi identificado nos testes.
+
+## Regras de Negócio
+
+
+| Definições do Cliente                                                                                               |
+|---------------------------------------------------------------------------------------------------------------------|
+| É importante que o sistema possua um histórico de registros de pontos alterados no sistema. |
 
 </details>
 
