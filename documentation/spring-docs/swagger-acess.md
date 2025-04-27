@@ -35,37 +35,37 @@ http://localhost:8080/swagger-ui.html
 
 ## 🔒 Passo 3: Faça a autenticação para acessar os endpoints
 
-Após acessar o swagger procure por `auth-controller` e acesse o `api/auth/login`
+### Após acessar o swagger procure por `auth-controller` e acesse o `api/auth/login`
 
 <div align="center">
 <img src="assets/swagger_login.png" alt="endpoint login" width="100%" />
 </div>
 
-Ao acessar o endpoint de login, insira as credenciais de acesso no json
+### Ao acessar o endpoint de login, insira as credenciais de acesso no json
 
 <div align="center">
 <img src="assets/swagger_login_cred.png" alt="endpoint login" width="100%" />
 </div>
 
-Em seguida copie o token que retorna na requisição (esse em verde)
+### Em seguida copie o token que retorna na requisição (esse em verde)
 
 <div align="center">
 <img src="assets/swagger_login_token.png" alt="endpoint login" width="100%" />
 </div>
 
-Com o token copiado abra o `authorize` 
+### Com o token copiado abra o `authorize` 
 
 <div align="center">
 <img src="assets/swagger_login_authorize.png" alt="endpoint login" width="100%" />
 </div>
 
-Por fim cole o token e confirme a autenticação
+### Por fim cole o token e confirme a autenticação
 
 <div align="center">
-<img src="assets/swagger_login_confirm.png" alt="endpoint login" width="100%" />
+<img src="assets/swagger_login_cofirm.png" alt="endpoint login" width="70%" />
 </div>
 
-✅ Pronto, o acesso aos endpoits ja está liberado!
+### ✅ Pronto, o acesso aos endpoits ja está liberado!
 
 ---
 
