@@ -270,7 +270,7 @@
 <img src="assets/burndown/burndown_sprint2.png" alt="BurnDown_Sprint2" width="100%" />
 
 ### Video de demonstração Sprint 2
-[🎥 Veja o vídeo de demonstração]()
+[🎥 Veja o vídeo de demonstração](https://youtu.be/U-m7gCkJw-I)
 
 
 
