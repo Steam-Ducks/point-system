@@ -74,6 +74,7 @@
 | 10 | BAIXA | PS-10 | Como gestor de contratos quero calcular quanto um funcionário receberá com base nas horas trabalhadas e cargo para garantir que as horas trabalhadas sejam devidamente pagas. | 20 | RF3, RF4, RNF1 |
 | 11 | ALTA | PS-22 | Como gestor de contratos quero realizar o acesso no sistema através de email e senha para garantir a segurança dos dados gerenciados. | 37 | RF1, RNF1 |
 | 12 | MÉDIA | PS-30 | Como Administrador do Sistema quero poder cadastrar usuarios no sistema para ter controle do acesso dos funcionários gestores de contrato | 19 | RF1, RNF1 |
+| 13 | ALTA | PS-63 | Como gestor de contrato quero visualizar um histórico de pontos alterados para saber quem alterou e quando o ponto foi alterado | A definir | RNF1 |
 
 ## Cronograma do Projeto
 
