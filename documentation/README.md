@@ -264,6 +264,15 @@
 | Cada usuário do sistema terá seu próprio login com dominio da Altave.|
 | O administrador pode criar esses usuários no sistema.  |
 
+---
+
+### Burndown
+<img src="assets/burndown/burndown_sprint2.png" alt="BurnDown_Sprint2" width="100%" />
+
+### Video de demonstração Sprint 2
+[🎥 Veja o vídeo de demonstração]()
+
+
 
 </details>
 
