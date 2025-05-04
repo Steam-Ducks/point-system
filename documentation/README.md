@@ -283,7 +283,7 @@
 
 | Rank | Prioridade | ID | User Story | Estimativa | Sprint | Requisito do parceiro |
 |------|------------|----|------------|------------|--------|-----------------------|
-| 2 | ALTA | PS-2 | Como gestor de contratos quero visualizar quantos funcionários trabalharam em determinado pedíodo para ter controle do número de profissionais no local de trabalho.| A definir | 3 | RF2, RFN1 |
+| 2 | ALTA | PS-2 | Como gestor de contratos quero visualizar quantos funcionários trabalharam em determinado pedíodo para ter controle do número de profissionais no local de trabalho.| 35 | 3 | RF2, RFN1 |
 
 ### Requisitos
 - O histórico deve ser acessível através de uma interface simples e clara. 
@@ -307,7 +307,7 @@
 
 | Rank | Prioridade | ID | User Story | Estimativa | Sprint | Requisito do parceiro |
 |------|------------|----|------------|------------|--------|-----------------------|
-| 6 | ALTA | PS-6 | Como gestor de contratos quero visualizar as informações de empresas e funcionários através de um dashboard para consultar as informações de forma gráfica. | A definir | 3 | RF2, RF4, RNF1  |
+| 6 | ALTA | PS-6 | Como gestor de contratos quero visualizar as informações de empresas e funcionários através de um dashboard para consultar as informações de forma gráfica. | 29 | 3 | RF2, RF4, RNF1  |
 
 ### Requisitos
 - O dashboard exibe gráficos interativos sobre empresas, funcionários e marcações de ponto.
@@ -336,7 +336,7 @@
 
 | Rank | Prioridade | ID | User Story | Estimativa | Sprint | Requisito do parceiro |
 |------|------------|----|------------|------------|--------|-----------------------|
-| 7 | ALTA | PS-7 | Como gestor de contratos quero extrair relatórios das informações do sistema para realizar uma análise detalhada de uma manutenção. | A definir | 3 | RF2, RF3, RNF1 |
+| 7 | ALTA | PS-7 | Como gestor de contratos quero extrair relatórios das informações do sistema para realizar uma análise detalhada de uma manutenção. | 27 | 3 | RF2, RF3, RNF1 |
 
 ### Requisitos
 - O sistema gera relatórios detalhados com base nos filtros aplicados.
@@ -359,7 +359,7 @@
 
 | Rank | Prioridade | ID | User Story | Estimativa | Sprint | Requisito do parceiro |
 |------|------------|----|------------|------------|--------|-----------------------|
-| 8 | MÉDIA | PS-8 | Como gestor de contratos quero filtrar tanto a consulta de informações como os relatórios por empresa, funcionário e período para obter informações mais específicas. | A definir | 3 | RF2, RF3, RF4, RNF1  |
+| 8 | MÉDIA | PS-8 | Como gestor de contratos quero filtrar tanto a consulta de informações como os relatórios por empresa, funcionário e período para obter informações mais específicas. | 27 | 3 | RF2, RF3, RF4, RNF1  |
 
 ### Requisitos
 - Permite aplicar filtros por empresa, funcionário e período.
@@ -382,7 +382,7 @@
 
 | Rank | Prioridade | ID | User Story | Estimativa | Sprint | Requisito do parceiro |
 |------|------------|----|------------|------------|--------|-----------------------|
-| 13 | ALTA | PS-63 | Como gestor de contrato quero visualizar um histórico de pontos alterados para saber quem alterou e quando o ponto foi alterado | A definir | 3 | RNF1 |
+| 13 | ALTA | PS-63 | Como gestor de contrato quero visualizar um histórico de pontos alterados para saber quem alterou e quando o ponto foi alterado | 26 | 3 | RNF1 |
 
 ### Requisitos
 - Permite aplicar filtros por empresa, funcionário e período.
