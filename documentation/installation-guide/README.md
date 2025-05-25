@@ -37,7 +37,9 @@
 
 ```bash
 git clone https://github.com/Steam-Ducks/point-system.git
-cd point-system/ps-server/point-system
+cd point-system
+git submodule update --init --recursive 
+cd ps-server/point-system
 ```
 ### 2. Carregue as dependências
 
