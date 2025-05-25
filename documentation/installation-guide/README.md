@@ -9,10 +9,11 @@
 # 🛠️ Manual de Instalação - Pontual
 
 ## 📁 Estrutura do Projeto
-/point-system/
-│
-├── /ps-client/     # Frontend - Vue.js
-└── /ps-server/     # Backend - Spring Boot
+
+- /point-system/
+- │
+- ├── /ps-client/     # Frontend - Vue.js
+- └── /ps-server/     # Backend - Spring Boot
 
 ---
 
@@ -42,13 +43,13 @@ cd point-system/ps-server/point-system
 
 Abra o projeto na sua IDE e aguarde o carregamento das dependências Maven.
 
-<div align="center">
-<img src="assets/maven1" alt="img" width="100%" />
+<div align="left">
+<img src="assets/maven1.png" alt="img" width="50%" />
 </div>
 
 
-<div align="center">
-<img src="assets/maven2" alt="img" width="100%" />
+<div align="left">
+<img src="assets/maven2.png" alt="img" width="50%" />
 </div>
 
 
@@ -57,17 +58,17 @@ Abra o projeto na sua IDE e aguarde o carregamento das dependências Maven.
 
 - Via IDE:
 
-<div align="center">
-<img src="assets/execute" alt="img" width="100%" />
+<div align="left">
+<img src="assets/execute.png" alt="img" width="50%" />
 </div>
 
 Execute a classe PointSystemApplication.
 
-<div align="center">
-<img src="assets/execute2" alt="img" width="100%" />
+<div align="left">
+<img src="assets/execute2.png" alt="img" width="50%" />
 </div>
 
-Via terminal:
+- Via terminal:
 
 ```bash
 mvn clean install
