@@ -408,6 +408,14 @@
 |---------------------------------------------------------------------------------------------------------------------|
 | É importante que o sistema possua um histórico de registros de pontos alterados no sistema. |
 
+---
+
+### Burndown
+<img src="assets/burndown/burndown_sprint3.png" alt="BurnDown_Sprint3" width="100%" />
+
+### Video de demonstração Sprint 3
+[🎥 Veja o vídeo de demonstração]().
+
 </details>
 
 ---
