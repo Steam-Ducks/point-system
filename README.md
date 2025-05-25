@@ -22,7 +22,7 @@
 ♦ [Termo de Requisitos de Permanência](#termo-de-requisitos-de-permanência) <br />
 ♦ [Documentação das Sprints](/documentation)  <br />
 ♦ [Documentação da API (Swagger)](/documentation/spring-docs/swagger-acess.md)  <br />
-♦ [Manual de Instalação]()<br >
+♦ [Manual de Instalação](documentation/installation-guide)<br >
 
 ## Requisitos
 
@@ -85,8 +85,8 @@
 | Sprint Review/Planning | 31/03/2025     | 04/04/2025      |   ✅   | 
 | [Sprint 2](/documentation/README.md)| 07/04/2025     | 27/04/2025      |   ✅   | 
 | Sprint Review/Planning | 28/04/2025     | 02/05/2025      |   ✅   | 
-| [Sprint 3](/documentation/README.md)| 05/05/2025     | 25/05/2025       |   🔄   | 
-| Sprint review         | 26/05/2025     | 28/05/2025      |   ❌   | 
+| [Sprint 3](/documentation/README.md)| 05/05/2025     | 25/05/2025       |   ✅   | 
+| Sprint review         | 26/05/2025     | 28/05/2025      |   🔄   | 
 | Feira de Soluções     | 29/09/2025     | 29/09/2025      |   ❌   | 
 
 ## Tecnologias Utilizadas
