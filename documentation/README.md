@@ -414,7 +414,7 @@
 <img src="assets/burndown/burndown_sprint3.png" alt="BurnDown_Sprint3" width="100%" />
 
 ### Video de demonstração Sprint 3
-[🎥 Veja o vídeo de demonstração]().
+[🎥 Veja o vídeo de demonstração](https://youtu.be/yODOR4y8xXY).
 
 </details>
 
