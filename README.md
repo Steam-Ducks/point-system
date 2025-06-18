@@ -86,8 +86,8 @@
 | [Sprint 2](/documentation/README.md)| 07/04/2025     | 27/04/2025      |   ✅   | 
 | Sprint Review/Planning | 28/04/2025     | 02/05/2025      |   ✅   | 
 | [Sprint 3](/documentation/README.md)| 05/05/2025     | 25/05/2025       |   ✅   | 
-| Sprint review         | 26/05/2025     | 28/05/2025      |   🔄   | 
-| Feira de Soluções     | 29/09/2025     | 29/09/2025      |   ❌   | 
+| Sprint review         | 26/05/2025     | 28/05/2025      |   ✅   | 
+| Feira de Soluções     | 29/09/2025     | 29/09/2025      |   ✅   | 
 
 ## Tecnologias Utilizadas
 
